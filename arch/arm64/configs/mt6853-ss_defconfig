@@ -6234,7 +6234,7 @@ CONFIG_TEE=y
 #
 # KernelSU
 #
-CONFIG_KSU=y
+CONFIG_KSU=n
 # CONFIG_KSU_DEBUG is not set
 
 #
